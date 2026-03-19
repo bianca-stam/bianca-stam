@@ -1,5 +1,5 @@
 # 💫 About Me:
-👻 Hola! Me llamo Bianca<br>💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma<br>🧠 Java, Python, HTML, CSS, MySQL, Dockers, AWS...<br>🧩 Me gusta viajar y desenvolverme sola en distintos entornos<br>🌍 Si tienes alguna duda, no tengas miedo de mandarme un mensaje!
+👻 Hola! Me llamo Bianca<br>💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma<br>🧠 Java, Python, HTML, CSS, MySQL, Dockers, AWS...<br>🧩 Me gusta viajar y desenvolverme sola en distintos entornos<br>🌍 Si tienes alguna duda, no tengas miedo de mandarme un mensaje! :)
 
 
 ## 🌐 Socials:
