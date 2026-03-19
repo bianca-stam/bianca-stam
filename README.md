@@ -18,6 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🧩 My filosophy...
 [![](https://visitcount.itsvg.in/api?id=bianca-stam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
